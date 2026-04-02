@@ -1,0 +1,15 @@
+# Lokalna kopia / stara wersja w podfolderze — repozytorium tylko z główną stroną
+Benek3/
+
+# Narzędzia AI i edytora (nie publikujemy)
+.agent/
+.claude/
+.superpowers/
+.cursor/
+
+# Notatki/specy robocze
+docs/
+
+# System
+.DS_Store
+Thumbs.db
